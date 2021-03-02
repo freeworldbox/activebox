@@ -549,6 +549,10 @@ color: #2d3033;
    .team__photo {
       margin: 0 auto;
    }
+   
+   .team__name {
+      margin-top: 10px;
+   }
 
    .social {
       justify-content: center;
