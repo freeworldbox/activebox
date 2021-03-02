@@ -1,4 +1,4 @@
-# Проект «ActiveBox»
+# Проект [«ActiveBox»](https://freeworldbox.github.io/activebox/)
 
 * Вёрстка: [Сагиндык Амир](https://github.com/freeworldbox).
 * Макет: [Brainscloud](https://brainscloud.ru/).
