@@ -17,13 +17,13 @@
   </tr>
   <tr valign="top">
     <td>
-        <img src="https://github.com/freeworldbox/activebox/blob/main/activebox1700.png" width="250" alt="Главная страница 1200">
+        <img src="https://github.com/freeworldbox/activebox/blob/main/activebox1700.png" width="250" alt="Скрин страницы при 1700px">
     </td>
     <td>
-        <img src="https://github.com/freeworldbox/activebox/blob/main/activebox900.png" width="250" alt="Страница каталог товаров 1200">
+        <img src="https://github.com/freeworldbox/activebox/blob/main/activebox900.png" width="250" alt="Скрин страницы при 900px">
     </td>
     <td>
-        <img src="https://github.com/freeworldbox/activebox/blob/main/activebox375.png" width="250" alt="">
+        <img src="https://github.com/freeworldbox/activebox/blob/main/activebox375.png" width="250" alt="Скрин страницы при 375px">
     </td>
   </tr>
 </table>
